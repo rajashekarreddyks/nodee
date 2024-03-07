@@ -1,0 +1,10 @@
+{
+    "name": "shekarreddy",
+    "version": "1.0.0",
+    "bin": {
+        "shekarreddy": "index.js"
+    },
+    "dependencies": {
+        "mongoose": "^6.8.1"
+    }
+}
